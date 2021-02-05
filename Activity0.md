@@ -37,7 +37,7 @@ This guide provides instructions to complete the activity using the command line
     git config --global user.email "youremail@yourprovider.com"
     ```  
 
-2. Browse to the directory where you will be storing your solutions, such as `C:\Projects`.  Make sure to browse to this repository in any browser https://github.com/FranklinUniversityCompSciPracticum/GitActivities  
+2. Browse to the directory where you will be storing your solutions, such as `C:\Projects`.  Make sure to browse to this repository in any browser https://github.com/FranklinCSPracticum/GitTrainingActivities
 
     Use the dropdown for `Code` to get the URL to clone.  Review Image 2 for more details.  
 
@@ -46,7 +46,7 @@ This guide provides instructions to complete the activity using the command line
     Click on the `clipboard` icon to copy the URL to your clipboard.  Then run the command git clone and paste the url to follow it (of course you can do this for any public GIT repository):  
 
     ```   
-    git clone https://github.com/FranklinUniversityCompSciPracticum/GitActivities 
+    git clone https://github.com/FranklinCSPracticum/GitTrainingActivities
     ```  
 
     Wait for the clone operation to complete.  You now have a copy of the GIT repository local to your machine.  If you didn't have rights to the repository, you would have to disconnect it and setup your own.
