@@ -1,1 +1,1 @@
-I'm adding this file to introduce a change for Activity1
+I'm adding this file to introduce a change for GitActivity1
