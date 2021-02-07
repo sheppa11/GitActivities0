@@ -1,1 +1,2 @@
 I'm adding this file to introduce a change for GitActivity1
+Making a conflict!
