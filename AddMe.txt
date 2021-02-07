@@ -1,2 +1,2 @@
-I'm adding this file to introduce a change for GitActivity1 - put more stuff here for conflict
-adding this to merge content
+I'm adding this file to introduce a change for GitActivity1
+Making a conflict!
